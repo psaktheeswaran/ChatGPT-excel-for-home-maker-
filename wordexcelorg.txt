@@ -1,0 +1,47 @@
+Shortcut keys, also known as keyboard shortcuts, can greatly improve your productivity when using Microsoft Word and Microsoft Excel. Here are some commonly used shortcut keys for both applications:
+
+Microsoft Word:
+
+Ctrl + S: Save the current document.
+Ctrl + C: Copy selected text or objects.
+Ctrl + X: Cut selected text or objects.
+Ctrl + V: Paste copied or cut text or objects.
+Ctrl + Z: Undo the last action.
+Ctrl + Y: Redo the last action.
+Ctrl + A: Select all text in the document.
+Ctrl + B: Bold selected text.
+Ctrl + I: Italicize selected text.
+Ctrl + U: Underline selected text.
+Ctrl + P: Open the print dialog.
+Ctrl + F: Find text within the document.
+Ctrl + H: Replace text within the document.
+Ctrl + N: Create a new document.
+Ctrl + O: Open an existing document.
+Ctrl + W: Close the current document.
+Ctrl + F12: Open the "Save As" dialog.
+Ctrl + N: Create a new document.
+
+Microsoft Excel:
+
+Ctrl + S: Save the current workbook.
+Ctrl + C: Copy selected cells or objects.
+Ctrl + X: Cut selected cells or objects.
+Ctrl + V: Paste copied or cut cells or objects.
+Ctrl + Z: Undo the last action.
+Ctrl + Y: Redo the last action.
+Ctrl + A: Select all cells in the current worksheet.
+Ctrl + B: Bold selected text.
+Ctrl + I: Italicize selected text.
+Ctrl + U: Underline selected text.
+Ctrl + P: Open the print dialog.
+Ctrl + F: Find text or values within the worksheet.
+Ctrl + H: Replace text or values within the worksheet.
+Ctrl + N: Create a new workbook.
+Ctrl + O: Open an existing workbook.
+Ctrl + W: Close the current workbook.
+Ctrl + F12: Open the "Save As" dialog.
+F2: Edit the active cell.
+F4: Repeat the last action.
+Alt + Enter: Start a new line within a cell.
+
+These are just a few of the many keyboard shortcuts available in Microsoft Word and Excel. Learning and using these shortcuts can significantly speed up your workflow and make you more efficient when working with these applications.
